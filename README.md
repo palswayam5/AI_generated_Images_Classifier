@@ -2,7 +2,7 @@
 
 Swayam Pal 
 21411036
-Bitgrit username - palswayam5
+palswayam5 (bitgrit username)
 
 # Intro
 In project I created a classifier that can distinguish between AI generated Images and the original Images.So it becomes one of classical problems of computer vision in which we have to correctly classify the images as being 0 or 1 (Binary Classification).
